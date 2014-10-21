@@ -1,6 +1,6 @@
   
-Nr. |Name     |Frage        |Nazwa     |Frage (pl)    | Artikel       |
----:|:--      |---          |---       |---           |------------------|
+Nr. |Name     |Frage        |Nazwa     |Frage (pl)    |M  |W   |N   | Pl.|
+---:|:--      |---          |---       |---           |---|----|----|----|
 1.  |Nominativ|Wer?/Wa?     |Mianownik |Kto/Co?       |der| die| das| die|
 2.  |Genitiv  |Wem?/        |Dopełniacz|Kogo/Czego?   |des| der| des| der|
 3.  |Dativ    |Wem?/Was?    |Celownik  |Komu/Czemu?   |dem| der| dem| den|
